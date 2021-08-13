@@ -1,0 +1,6 @@
+.box {
+    display: flex;
+    padding: 10px;
+    background-color: skyblue;
+    margin-right: 7in;
+}
